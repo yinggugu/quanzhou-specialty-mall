@@ -1,0 +1,86 @@
+# Build outputs
+target/
+**/target/
+vue/dist/
+vue/node_modules/
+
+# Runtime uploads and local data
+.uploads/
+static/uploads/
+springboot-backend/static/uploads/
+*.log
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
+application-local.properties
+application-secret.properties
+**/application-local.yml
+**/application-local.yaml
+
+# Local database scripts and exports
+database/*.sql
+*.sql
+
+# Private project media kept only in the local workspace
+!vue/src/assets/images/
+vue/src/assets/images/*
+!vue/src/assets/images/.gitkeep
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+
+# Private documents kept locally
+/*.doc
+/*.docx
+/*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+*.class
+*.orig
+
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.settings/
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
