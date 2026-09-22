@@ -34,6 +34,13 @@ vue/src/assets/images/*
 *.webp
 *.bmp
 
+# Public, sanitized portfolio screenshots
+!docs/
+!docs/screenshots/
+!docs/screenshots/home.png
+!docs/screenshots/register.png
+!docs/screenshots/quanzhou.png
+
 # Private documents kept locally
 /*.doc
 /*.docx

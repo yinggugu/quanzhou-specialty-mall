@@ -4,6 +4,22 @@
 
 > 项目定位为单体学习与作品集项目。当前未使用 Redis、MQ、分布式 WebSocket、RAG 或真实支付网关，也不宣称具备高并发商城能力。
 
+## 项目预览
+
+以下截图仅展示脱敏后的公开页面，不包含真实用户、订单、聊天记录或本地商品图片。
+
+### 用户端首页
+
+![泉州特产商城用户端首页](docs/screenshots/home.png)
+
+### 用户注册
+
+![泉州特产商城用户注册页](docs/screenshots/register.png)
+
+### 泉州文化展示
+
+![泉州特产商城泉州文化页](docs/screenshots/quanzhou.png)
+
 ## 技术栈
 
 ### 后端
