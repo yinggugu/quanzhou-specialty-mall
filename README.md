@@ -12,6 +12,10 @@
 
 ![泉州特产商城用户端首页](docs/screenshots/home.png)
 
+### 商品列表
+
+![泉州特产商城商品列表页](docs/screenshots/products.png)
+
 ### 用户注册
 
 ![泉州特产商城用户注册页](docs/screenshots/register.png)

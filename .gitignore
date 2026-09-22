@@ -38,6 +38,7 @@ vue/src/assets/images/*
 !docs/
 !docs/screenshots/
 !docs/screenshots/home.png
+!docs/screenshots/products.png
 !docs/screenshots/register.png
 !docs/screenshots/quanzhou.png
 
